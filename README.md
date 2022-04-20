@@ -4,7 +4,7 @@
 
 </p>
 
-![](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif )
+<img src="https://c.tenor.com/VrzXhtoSwcsAAAAC/hacker-typing.gif">
 
 ### About Me:
 - 🏦  I’m currently working on []
