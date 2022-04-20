@@ -10,8 +10,3 @@
 - 🏦  I’m currently working on []
 - 💬 []
 - 📫 How to reach me []
-
----
-### My Github stats:
-![br33z3's github stats](https://github-readme-stats.vercel.app/api?username=br33z3&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br33z3&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/br33z3/github-readme-stats)
